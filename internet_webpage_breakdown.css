@@ -1,0 +1,172 @@
+
+.wrapper {
+    width: 960px;
+    height: 500px;
+    background: white; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white,rgba(255, 255, 255, 0.49), white,white); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(white,rgba(255, 255, 255, 0.49), white,white); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white,rgba(255, 255, 255, 0.49), white,white); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white,rgba(255, 255, 255, 0.49), white,white); /* Standard syntax */
+}
+.body {
+    width: 960px;
+    display: inline-block; 
+}
+.header {
+    width: 960px;
+    display: inline-block;
+}
+.header img {
+    width: 85px;
+    height: 85px;
+    position: absolute;
+    top: 10px;
+}
+.header h1 {
+    width: 815px;;
+    vertical-align: top;
+    padding-left: 90px;
+    margin-bottom: 10px;
+    font-size: 35px;
+}
+.header h2 {
+    font-size: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: white; 
+    background: blue;
+    background: -webkit-linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170));
+    background: -o-linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170));
+    background: -moz-linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170));
+    background: linear-gradient(rgb(38, 121, 170), rgb(56,128,170), rgb(38,122,170)); 
+}
+.ad_block {
+    width: 200px;
+    margin-right: 50px;
+    padding: 8px 4px 0px 4px;
+    display: inline-block;
+    font-weight: bold;
+}
+button {
+    margin-left: 40px;
+    margin-top: 15px;
+    background-color: #2295D1;
+    color: white;
+    box-shadow: 2px 2px 2px black;
+}
+.resources {
+    background-color: #D69928;
+}
+.learn_more {
+    background-color: #5DCBEA;
+    margin: 0px;
+    margin-top: 25px;
+}
+.splitter {
+    width: 100%;
+    height: 2px;
+    background-color: grey;
+    margin: 8px 0px;
+}
+.ad {
+    width: 190px;
+    height: 300px;
+    padding: 5px;
+    background-image: url("/Users/NathanDiehl/Desktop/DojoAssignments/WebFundamentals/Git/HTML/Portfolio_images/internet_webpage_breakdown_images/ad_background.png");
+    text-align: center;
+}
+.ad p {
+    width: 100px;
+    color: white;
+    display: inline-block;
+    text-align: center;
+}
+.ad img {
+    display: block;
+    width:100px;
+    height: 100px;
+    padding-left:25px;
+}
+.content {
+    width: 690px;
+    display: inline-block;
+    vertical-align: top;
+}
+.content img {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.content p {
+    display: inline-block;
+    width: 490px;
+    vertical-align: top;
+    margin-top: 5px;
+}
+img[src*="phone"] {
+    width: 30px;
+    height: 20px;
+    padding-top: 20px;
+}
+.contact {
+    width:80px;
+    display: inline-block;
+}
+.contact p {
+    font-size: 10px;
+    margin: 2px;
+    width: 130px;
+}
+.contact h5 {
+    font-size: 20px;
+    color: aqua;
+    margin:2px;
+}
+.content .splitter {
+    width: 100%;
+    height: 2px;
+    background-color: grey;
+    margin: 8px 0px;
+}
+.content h3 {
+    color: #2297E0;
+    margin: 10px 0px 5px 0px;
+}
+.content p {
+    margin: 2px 0px 2px 0px;
+}
+.content li {
+    font-size: 15px;
+}
+img[src*="client"] {
+    width: 200px;
+    height: 100px;
+    margin-left: 195px;
+}
+.code_box {
+    border: 4px solid #2297E0;
+    padding:10px;
+}
+img[src*="html"] {
+    width: 75px;
+    height: 80px;
+    display: inline-block;
+}
+.code_info {
+    width: 490px;
+    display: inline-block;
+    margin-left: 20px;
+}
+.code_info h3 {
+    width: 490px;
+    margin-top: 0px;
+}
+
+
+
+
+
+
+ 
